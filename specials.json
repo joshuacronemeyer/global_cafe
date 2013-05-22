@@ -1,0 +1,35 @@
+monday: {
+  name: "Awesome blossom",
+  description: "A deep fried onion opened up like a bloom and served with hot and spicy ranch dressing.",
+  price: "$5.95"
+},
+tuesday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
+wednesday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
+thursday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
+friday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
+saturday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
+sunday: {
+  name: "Other name",
+  description: "foo",
+  price: "$22.50"
+}
