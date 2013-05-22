@@ -4,7 +4,7 @@ monday: {
   price: "$5.95"
 },
 tuesday: {
-  name: "Other name",
+  name: "Taco tuesday fools!",
   description: "foo",
   price: "$22.50"
 }
